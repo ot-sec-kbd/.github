@@ -1,0 +1,7 @@
+{
+  "name": "Opentone Organization Workflow",
+  "description": "This is a workflow for Opentone Organization",
+  "iconName": "octicon rocket",
+  "categories": ["continuous-integration"],
+  "filePatterns": [".github/workflows/*.yml"]
+}
