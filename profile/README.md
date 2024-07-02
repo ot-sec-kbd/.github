@@ -1,1 +1,0 @@
-# Opentone Co. ltd.
